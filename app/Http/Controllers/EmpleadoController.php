@@ -35,7 +35,7 @@ class EmpleadoController extends Controller
     {
         //
 
-  /*      $campos=[
+     /*  $campos=[
             'Nombre'=>'required|string|max:100',
             'ApellidoPaterno'=>'required|string|max:100',
             'ApellidoMaterno'=>'required|string|max:100',
@@ -47,7 +47,7 @@ class EmpleadoController extends Controller
             'Foto.requerid'=>'La foto es requerida'
         ];
 
-        $this->validate($request,$campos,$mensaje); */
+        $this->validate($request,$campos,$mensaje);*/
 
 
 
